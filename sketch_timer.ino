@@ -1,7 +1,5 @@
 const int Pin[7] = { 2, 4, 6, 7, 8, 10, 12 };
 
-const int DotPin = 10;
-
 int counter = 0;
 
 const int number[10][7] = {
